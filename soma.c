@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() { 
+int main() {  
     //declarando variaveis
     float a, b, soma;
     //entrada a ser guardada na primeira variavel a
